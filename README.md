@@ -2,6 +2,8 @@
 
 From Azure Cloud Shell
 
+A new row to trigger and action
+
 * push build
 
 ## Template for Python projects 
