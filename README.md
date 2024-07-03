@@ -2,7 +2,7 @@
 
 From Azure Cloud Shell
 
-A new row to trigger and action
+A second new row to trigger and action
 
 * push build
 
